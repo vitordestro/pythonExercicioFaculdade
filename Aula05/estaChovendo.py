@@ -1,6 +1,6 @@
 print("ESTÁ CHOVENDO?")
 
-resposta = input("Está chovendo hoje? (sim/não)(yes/no) : ")
+resposta = input("Está chovendo hoje? (sim/não)(yes/no) : ").lower()
 
 chovendo = resposta
 
